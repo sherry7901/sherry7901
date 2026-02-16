@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Muhammad Shaharyar
+# Muhammad Shaharyar 
 
 I’m an Associate Software Engineer focused on building clean, scalable full-stack systems. I’m passionate about crafting reliable, maintainable code and solving real-world problems using modern web technologies and AI-powered solutions.
 
