@@ -12,14 +12,9 @@ I primarily work with **MERN stack** Python, and PostgreSQL, but I also explore 
 - Create reusable components, APIs, and backend modules  
 
 ### Skills & Tech
-I specialise in **MERN stack** development, AI/ML integration, and database management. I use **React.js, Express.js, Node.js, Nest.js, Tailwind, PostgreSQL, MongoDB**, and AI tools like **HuggingFace Transformers** and **FAISS**. I also rely on **Git, Docker, Postman**, and deployment platforms to optimise workflows.  
-
-###  Let’s Work Together
+I specialise in **MERN stack** development, AI/ML integration, and database management. I use **React.js, Express.js, Node.js, Nest.js, Tailwind, PostgreSQL, MongoDB**, and AI tools like **HuggingFace Transformers** and **FAISS**.
 
 If you’re looking for a **Associate Software Engineer** for your next project:
 
 **LinkedIn:** www.linkedin.com/in/shaharyar35
 **Email:** muhammadshaharyar1611@gmail.com
-
-🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/shaharyar35) | [Email](mailto:muhammadshaharyar1611@gmail.com)
