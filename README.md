@@ -1,16 +1,18 @@
 ## Hi there 👋
+# Muhammad Shaharyar
 
-<!--
-**sherry7901/sherry7901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Associate Software Engineer focused on building clean, scalable full-stack systems. I’m passionate about crafting reliable, maintainable code and solving real-world problems using modern web technologies and AI-powered solutions.
 
-Here are some ideas to get you started:
+I primarily work with **MERN stack** Python, and PostgreSQL, but I also explore other tools like Nest.js, FastAPI, Web3.js, and AI/ML frameworks to expand my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Build and maintain full-stack web applications and AI-powered systems  
+- Focus on clean, efficient, and scalable code  
+- Integrate modern tools and frameworks to solve real-world problems  
+- Create reusable components, APIs, and backend modules  
+
+### Skills & Tech
+I specialise in **MERN stack** development, AI/ML integration, and database management. I use **React.js, Express.js, Node.js, Nest.js, Tailwind, PostgreSQL, MongoDB**, and AI tools like **HuggingFace Transformers** and **FAISS**. I also rely on **Git, Docker, Postman**, and deployment platforms to optimise workflows.  
+
+🔗 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/shaharyar35) | [Email](mailto:muhammadshaharyar1611@gmail.com)
