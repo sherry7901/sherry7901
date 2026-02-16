@@ -24,10 +24,11 @@ If you’re looking for a dedicated developer to help bring your ideas to life, 
 **LinkedIn:** [linkedin.com/in/shaharyar35](https://www.linkedin.com/in/shaharyar35)  
 **Email:** [muhammadshaharyar1611@gmail.com](mailto:muhammadshaharyar1611@gmail.com)
 
-
-### GitHub Activity & Stats
+##  GitHub Activity & Stats
 
 <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherry7901&theme=transparent" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry7901&theme=transparent" />
+
+---
 
 
