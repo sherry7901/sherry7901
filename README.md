@@ -12,7 +12,7 @@ I primarily work with **MERN stack** Python, and PostgreSQL, but I also explore 
 - Create reusable components, APIs, and backend modules  
 
 ### Skills & Tech
-I specialise in **MERN stack** development, AI/ML integration, and database management. I use **React.js, Express.js, Node.js, Nest.js, Tailwind, PostgreSQL, MongoDB**, and AI tools like **HuggingFace Transformers** and **FAISS**.
+I specialise in **MERN stack** development, AI/ML integration. I use **React.js, Express.js, Node.js, Nest.js, Tailwind, PostgreSQL, MongoDB**, and AI tools like **HuggingFace Transformers** and **FAISS**.
 
 ### Let’s Connect
 
